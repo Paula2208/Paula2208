@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paula Guzmán</h1>
 <h3 align="center">A passionate team leader and full-satck developer from Colombia</h3>
 
-- 🔭 I’m currently working on [QuickFins](quickfins.co)
+- 🔭 I’m currently CEO of [QuickFins](quickfins.co)
 
 - 🌱 I’m currently learning **Golang and Flutter.**
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/paula-guzman-2208/details/experience/](https://www.linkedin.com/in/paula-guzman-2208/details/experience/)
 
-- ⚡ Hobby fact **I'm a passionate singer and a good dancer.**
+- ⚡ Hobby fact **I'm a passionate singer 🎤and a good dancer 💃🏻.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
