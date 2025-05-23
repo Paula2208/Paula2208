@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Paula Guzmán</h1>
 <h3 align="center">A passionate team leader and full-satck developer from Colombia</h3>
 
-- 🔭 I’m currently CEO of [QuickFins](quickfins.co)
+- 🔭 I’m currently Full-stack developer of [Fumi-Integrales SAS](https://www.fumi-integrales.com/)
 
-- 🌱 I’m currently learning about **Golang and Flutter.**
-
-- 👯 I’m looking to collaborate on **PerfectPick**
-
-- 🤝 I’m working for [Vibe](vibe.love)
+- 🌱 I’m currently learning about **Marketing and branding.**
 
 <!--- - 👨‍💻 All of my projects are available at [paucode.com](paucode.com) -->
 
 - 💬 Ask me about **Team leadership, SCRUM, NextJS and ReactJS.**
 
-- 📄 Know about my experience in my [linkedIn Profile](https://www.linkedin.com/in/paula-guzman-2208/details/experience/)
+- 📄 Know about my experience in my [linkedIn Profile](https://www.linkedin.com/in/paula-daniela-gz/)
 
 - ⚡ Hobby fact: **I'm a passionate singer 🎤and a good dancer 💃🏻.**
 
